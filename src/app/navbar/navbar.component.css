@@ -1,0 +1,13 @@
+
+mat-toolbar {
+  background-color: #2196F3;
+  color: white;
+}
+
+mat-sidenav {
+  min-width: 300px;
+}
+
+mat-sidenav-content {
+  padding: 10px;
+}
